@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1795682432020,
+    "name": "komlika taru",
+    "phone": "7378419412",
+    "email": "komlikataru2@gmail.com",
+    "service": "Sewage Treatment Plant (STP)",
+    "message": "abc",
+    "createdAt": "2026-11-26T08:40:32.020Z"
+  },
+  {
+    "id": 1795682300149,
+    "name": "komlika",
+    "phone": "7378419412",
+    "email": "komlikataru2@gmail.com",
+    "service": "Effluent Treatment Plant (ETP)",
+    "message": "abc",
+    "createdAt": "2026-11-26T08:38:20.149Z"
+  }
+]
